@@ -1,0 +1,39 @@
+body{
+    background:#D0E5F2;
+}
+
+h2{
+    color:#D0E5F2;
+}
+
+img, .form-box, input{
+    border-radius: 2%;
+}
+
+.form-box{
+    background:#0D0D0D;
+    margin-top:100px;
+    text-align:center
+}
+
+.row{
+    margin-bottom: 10px;
+}
+
+#captchaInput{
+    max-width: 140px;
+    height:50px;
+}
+
+button{
+    width:140px;
+}
+
+.reset-btn{
+    border:none;
+    background:#ff5733;
+}
+
+.reset-btn:hover{
+    background:#f8370e;
+}
