@@ -1,4 +1,4 @@
-# :detective: CaptchaPHP, demo <a href="https://replit.com/@ErllanRego/CaptchaPHP#index.php">here</a>.
+# :detective: CaptchaPHP, demo <a href="https://replit.com/@ErllanRego/CaptchaPHP#index.php" target="_blank">here</a>.
 A simple PHP system that generates captcha.
 
 
